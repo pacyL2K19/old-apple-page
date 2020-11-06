@@ -1,0 +1,40 @@
+/* ------------------- Footer ------------------- */
+
+footer {
+  display: flex;
+  flex-direction: row;
+}
+
+/* ------------------- End Footer ------------------- */
+
+/* ------------------- Header ------------------- */
+
+body {
+    margin: 0.01px;
+}
+
+header {
+  background-image: url('./assets/backimg.jpg');
+  background-position: center;
+  background-size: cover;
+  padding: 80px;
+}
+
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  border-radius: 4px;
+  width: 80%;
+  margin: 0 auto;
+  padding: 5px;
+  align-items: center;
+  background: linear-gradient(0deg, rgb(129, 128, 128) 10%, rgba(78, 74, 74, 1) 43%, rgb(133, 131, 131) 71%);
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+}
+
+/* ------------------- End Header ------------------- */
