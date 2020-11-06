@@ -16,6 +16,10 @@ footer img {
   height: 15px;
 }
 
+.footer-links a {
+  margin: 0 5px;
+}
+
 /* ------------------- End Footer ------------------- */
 
 /* ------------------- Header ------------------- */
@@ -42,6 +46,10 @@ header {
   align-items: center;
   background: linear-gradient(0deg, rgb(129, 128, 128) 10%, rgba(78, 74, 74, 1) 43%, rgb(133, 131, 131) 71%);
   margin-bottom: 50px;
+}
+
+.navbar a:hover {
+  background: linear-gradient(0deg, rgb(87, 85, 85) 10%, rgba(78, 74, 74, 1) 43%, rgb(97, 93, 93) 71%);
 }
 
 .body-header {
