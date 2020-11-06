@@ -30,11 +30,46 @@ header {
   padding: 5px;
   align-items: center;
   background: linear-gradient(0deg, rgb(129, 128, 128) 10%, rgba(78, 74, 74, 1) 43%, rgb(133, 131, 131) 71%);
+  margin-bottom: 50px;
+}
+
+.body-header {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding-bottom: 20px;
+}
+
+.body-header h1,
+.body-header h2,
+.body-header h3 {
+  text-align: center;
+  color: white;
+  margin: 20px;
+  font-weight: lighter;
 }
 
 .navbar a {
   color: white;
   text-decoration: none;
+}
+
+.input {
+  height: 30px;
+  width: 120px;
+  border-radius: 15px;
+  background: transparent;
+  margin-left: -25px;
+}
+
+.fa-search {
+  color: white;
+}
+
+.separator {
+  height: 100%;
+  width: 1px;
+  background-color: black;
 }
 
 /* ------------------- End Header ------------------- */
