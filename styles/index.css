@@ -1,8 +1,19 @@
 /* ------------------- Footer ------------------- */
 
 footer {
+  padding: 15px 130px;
   display: flex;
   flex-direction: row;
+  justify-content: space-between;
+}
+
+footer p {
+  font-weight: lighter;
+  font-size: 11px;
+}
+
+footer img {
+  height: 15px;
 }
 
 /* ------------------- End Footer ------------------- */
@@ -73,3 +84,22 @@ header {
 }
 
 /* ------------------- End Header ------------------- */
+
+/* -------------- items ------------------ */
+
+.items {
+  display: flex;
+  flex-direction: row;
+}
+
+.items div {
+  width: 25%;
+  display: flex;
+  flex: 1;
+}
+
+.items div img {
+  width: 100%;
+}
+
+/* -------------- End items ------------------ */
