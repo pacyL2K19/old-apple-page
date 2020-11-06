@@ -25,7 +25,7 @@ footer img {
 /* ------------------- Header ------------------- */
 
 body {
-    margin: 0.01px;
+  margin: 0.01px;
 }
 
 header {
@@ -48,10 +48,6 @@ header {
   margin-bottom: 50px;
 }
 
-.navbar a:hover {
-  background: linear-gradient(0deg, rgb(87, 85, 85) 10%, rgba(78, 74, 74, 1) 43%, rgb(97, 93, 93) 71%);
-}
-
 .body-header {
   display: flex;
   justify-content: center;
@@ -71,6 +67,10 @@ header {
 .navbar a {
   color: white;
   text-decoration: none;
+}
+
+.navbar a:hover {
+  background: linear-gradient(0deg, rgb(87, 85, 85) 10%, rgba(78, 74, 74, 1) 43%, rgb(97, 93, 93) 71%);
 }
 
 .input {
@@ -109,5 +109,3 @@ header {
 .items div img {
   width: 100%;
 }
-
-/* -------------- End items ------------------ */
