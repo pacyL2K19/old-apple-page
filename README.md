@@ -15,12 +15,12 @@
 
 ## Live Demo
 
-[Live Demo Link](https://pacyl2k19.github.io/NYTimes/)
+[Live Demo Link](https://pacyl2k19.github.io/old-apple-page/)
 
 ## Getting Started
 
 1. First clone the project 
-  `$ git clone https://github.com/ahzia/HTML-Signup-Form`
+  `$ git clone https://pacyl2k19.github.io/old-apple-page/`
 2. Then open index.html in your browser
 3. [optional] You can even fork the project 
 
@@ -40,7 +40,7 @@ Just ensure you have one or more web browsers
 
 Contributions, issues, and feature requests are welcome!
 Feel free to contribute 
-Feel free to check the [issues page](https://github.com/pacyL2K19/NYTimes/issues/2).
+Feel free to check the [issues page](https://github.com/pacyL2K19/old-apple-page/issues/1).
 
 ## Show your support
 
