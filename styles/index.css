@@ -9,7 +9,7 @@ footer {
 
 footer p {
   font-weight: lighter;
-  font-size: 11px;
+  font-size: 10px;
 }
 
 footer img {
@@ -26,6 +26,7 @@ footer img {
 
 body {
   margin: 0.01px;
+  font-family: 'Lucida Grande', 'Lucida Sans Unicode', Helvetika, Arial, Verdana, sans-serif;
 }
 
 header {
@@ -44,7 +45,7 @@ header {
   margin: 0 auto;
   padding: 5px;
   align-items: center;
-  background: linear-gradient(0deg, rgb(129, 128, 128) 10%, rgba(78, 74, 74, 1) 43%, rgb(133, 131, 131) 71%);
+  background: linear-gradient(0deg, rgb(129, 128, 128) 10%, rgb(114, 109, 109) 43%, rgb(133, 131, 131) 71%);
   margin-bottom: 50px;
 }
 
@@ -59,7 +60,7 @@ header {
 .body-header h2,
 .body-header h3 {
   text-align: center;
-  color: white;
+  color: rgb(240, 230, 230);
   margin: 20px;
   font-weight: lighter;
 }
