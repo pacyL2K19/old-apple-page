@@ -2,8 +2,6 @@
 
 # Old Apple page 
 
-> This project is a clone of the Apple old home page
-
 <h4>Screeshots</h4>
 
 ![screenshot](assets/applescr.PNG)
