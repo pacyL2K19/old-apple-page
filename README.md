@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# New York Time artile page
+# Old Apple page 
 
-> This is a clone of the New York page web article page
+> This project is a clone of the Apple old home page
 
 <h4>Screeshots</h4>
 
