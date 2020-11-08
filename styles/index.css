@@ -1,0 +1,112 @@
+/* ------------------- Footer ------------------- */
+
+footer {
+  padding: 15px 130px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+footer p {
+  font-weight: lighter;
+  font-size: 10px;
+}
+
+footer img {
+  height: 15px;
+}
+
+.footer-links a {
+  margin: 0 5px;
+}
+
+/* ------------------- End Footer ------------------- */
+
+/* ------------------- Header ------------------- */
+
+body {
+  margin: 0.01px;
+  font-family: 'Lucida Grande', 'Lucida Sans Unicode', Helvetika, Arial, Verdana, sans-serif;
+}
+
+header {
+  background-image: url('./assets/backimg.jpg');
+  background-position: center;
+  background-size: cover;
+  padding: 80px;
+}
+
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  border-radius: 4px;
+  width: 80%;
+  margin: 0 auto;
+  padding: 5px;
+  align-items: center;
+  background: linear-gradient(0deg, rgb(129, 128, 128) 10%, rgb(114, 109, 109) 43%, rgb(133, 131, 131) 71%);
+  margin-bottom: 50px;
+}
+
+.body-header {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding-bottom: 20px;
+}
+
+.body-header h1,
+.body-header h2,
+.body-header h3 {
+  text-align: center;
+  color: rgb(240, 230, 230);
+  margin: 20px;
+  font-weight: lighter;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  background: linear-gradient(0deg, rgb(87, 85, 85) 10%, rgba(78, 74, 74, 1) 43%, rgb(97, 93, 93) 71%);
+}
+
+.input {
+  height: 30px;
+  width: 120px;
+  border-radius: 15px;
+  background: transparent;
+  margin-left: -25px;
+}
+
+.fa-search {
+  color: white;
+}
+
+.separator {
+  height: 100%;
+  width: 1px;
+  background-color: black;
+}
+
+/* ------------------- End Header ------------------- */
+
+/* -------------- items ------------------ */
+
+.items {
+  display: flex;
+  flex-direction: row;
+}
+
+.items div {
+  width: 25%;
+  display: flex;
+  flex: 1;
+}
+
+.items div img {
+  width: 100%;
+}
